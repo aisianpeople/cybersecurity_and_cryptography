@@ -1,0 +1,20 @@
+key = "abcdefghijklmnopqrstuvwxyz .?!1234567890"
+key = "654371!?2 zyx.vutsrwponmlqkjihgfedcba098"
+
+flipped the order shifted 3 to the right shifted the corresponding vowels to the left 5
+
+"I love cryptology!"
+"2kyvo7k4sluwvyv!lh"
+"i love cryptology!"
+
+
+
+part 3
+
+In April of 2020 Nintendo got hacked and up to 300000 accounts got hacked.  
+The hackers had access to the username, email address, date of birth, gender and country.
+Nintendo claims that no billing information got hacked but as the hackers
+could buy games through Nintendo.  Nintendo refunded the hacked accounts and apoligised, 
+encouraging users to use two factor authentication.  they also no longer allowed
+the ability to access a Nintendo acount through the use of a Nintendo Network ID.
+Nintendo did not reveal how this happened in order to prevent simmilar incidents.
